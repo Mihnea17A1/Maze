@@ -1,1 +1,1 @@
-# Code2020
+# Code Sinaia - Advanced Programming School
